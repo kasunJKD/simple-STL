@@ -1,0 +1,15 @@
+D:\work\geometrylibrary\simpleSTL\bin\Debug\net6.0\simpleSTL.exe
+D:\work\geometrylibrary\simpleSTL\bin\Debug\net6.0\simpleSTL.deps.json
+D:\work\geometrylibrary\simpleSTL\bin\Debug\net6.0\simpleSTL.runtimeconfig.json
+D:\work\geometrylibrary\simpleSTL\bin\Debug\net6.0\simpleSTL.dll
+D:\work\geometrylibrary\simpleSTL\bin\Debug\net6.0\simpleSTL.pdb
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.csproj.AssemblyReference.cache
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.AssemblyInfoInputs.cache
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.AssemblyInfo.cs
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.csproj.CoreCompileInputs.cache
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.dll
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\refint\simpleSTL.dll
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.pdb
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\simpleSTL.genruntimeconfig.cache
+D:\work\geometrylibrary\simpleSTL\obj\Debug\net6.0\ref\simpleSTL.dll
